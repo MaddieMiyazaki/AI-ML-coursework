@@ -1,1 +1,1 @@
-Trial coursework for Ai&ML module in semester 1
+Trial coursework for AI&ML module in semester 1
