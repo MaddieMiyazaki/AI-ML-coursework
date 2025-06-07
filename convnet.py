@@ -20,5 +20,6 @@ def convnet(x: list):
 
 x=[0.3,-1.5,0.7,2.1,0.1]
 y,z=convnet(x)
-print(y,z)
+print('y: ',y)
+print('z: ',z)
 
