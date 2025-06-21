@@ -1,7 +1,5 @@
 ## Two-Layer Convolutional Neural Network (CNN) Implementation
 
-I completed this project as part of coursework for the AI & ML module taught in semester 1. 
-
 I developed a two-layer CNN in Python with:
 - 5 input nodes, 4 hidden nodes and 1 output node,
 - with fixed weights ( $w_1 = 1.2$, $w_2 = -0.2$, $v_1 = -0.3$, $v_2 = 0.6$, $v_3 = 1.3$, and $v_4 = -1.5$)
